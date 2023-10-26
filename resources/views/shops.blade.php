@@ -7,7 +7,7 @@
 <body>
 <h1>店舗一覧</h1>
 
-{{dd($shops)}}
+
 
 </body>
 </html>
